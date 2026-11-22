@@ -25,7 +25,7 @@
 
 ## Website URL
 
- - http://foodiepy.herokuapp.com/
+ - The app was hosted on Heroku's free tier, which has been discontinued, so it is no longer online. Watch the demo video below or run it locally.
 ## Demo of project and it's explanation
 
  - Youtube video: https://youtu.be/Ti-FZwMjzf0
@@ -39,7 +39,7 @@
 ## Related project
 
  - We had added Inventory management  to this project in which User can manage their inventory and customers.
- - Inventory management project can be found at https://github.com/darsh295/Food-demand-forecasting-and-inventory-management
+ - Inventory management project can be found at https://github.com/darshanbhavsar01/Food-demand-forecasting-and-inventory-management
  - Although Inventory management feature is not hosted.
 ## Contributors
  - Darshan Bhavsar : https://www.linkedin.com/in/darshan-bhavsar-93370721a/
@@ -54,7 +54,7 @@
 
 ## How to setup this project on your local machine
 
- 1. Clone This Project `git clone https://github.com/darsh295/Food-demand-forecasting.git`
+ 1. Clone This Project `git clone https://github.com/darshanbhavsar01/Food-demand-forecasting.git`
  2. Go to Project Directory
  3. Create a Virtual Environment `python3 -m venv env`
  4. Activate Virtual Environment `env/Scripts/activate`
